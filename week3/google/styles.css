@@ -30,6 +30,7 @@ header, footer{
 footer {
     display: flex;
     margin-top: 22%;
+    background-color: lightgray;
 }
 
 button {
@@ -77,3 +78,9 @@ h1 {
     display: flex;
     justify-content: center;
 }
+
+/* body {
+    position: absolute;
+    bottom: 0;
+}
+*/
