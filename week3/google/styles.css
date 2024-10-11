@@ -77,3 +77,9 @@ h1 {
     display: flex;
     justify-content: center;
 }
+
+body {
+    display: grid;
+    grid-template-rows: 1fr 3fr 1fr;
+    height: 100vh;
+}
