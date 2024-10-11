@@ -8,13 +8,28 @@
 ul {
     display: flex;
     flex-direction: row; /*by default, display: flex has flex direction row*/
-    list-style: none;
+    list-style-type: none;
     gap: 16px;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+html, body {
+    height: 22%;
+    min-height: 22%
 }
 
 header, footer{
     display: flex;
     justify-content: space-between;
+    margin-right: 1rem;
+}
+
+footer {
+    display: flex;
+    margin-top: 22%;
 }
 
 button {
@@ -30,4 +45,35 @@ button {
     display: flex;
     gap: 1rem;
     align-items: center;
+}
+
+#climate-message a {
+    text-decoration: none;
+}
+
+input[type="text"] {
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    margin: 3rem;
+    margin-bottom: 2rem;
+    padding: 0.6rem;
+    padding-left: 30rem;
+    padding-right: 30rem;
+    padding-bottom: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
 }
