@@ -1,0 +1,52 @@
+nav ul {
+    gap: 1rem;
+    color: #073164;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+header h1 {
+    margin-bottom: 10px;
+    font-size: 30px;
+    color: #073164;
+}
+
+ul.tags {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+ul.tags a {
+    text-decoration: none;
+}
+
+header time {
+    color: #aaa;
+}
+
+article {
+    flex: 0 0 30%;
+    min-width: 80ch;
+    max-width: 100ch;
+}
+
+article p {
+    line-height: 18px;
+}
+
+a.secondary {
+    color: #aaa;
+    text-decoration: none;
+}
+
+a.primary {
+    color: #54a0ff;
+}
+
+footer nav {
+    background-color: white;
+    gap: 1rem;
+}
