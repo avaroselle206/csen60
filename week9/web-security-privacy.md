@@ -12,6 +12,13 @@
     - bugs that expose user data
 - Cross Site Scripting
 - Distributed Denial of Service
+- Network Security
+    - solved by encryption
+- Secure Socket Layer (SSL)
+    - developed by Netscape
+    - allows data to be privately exchanged over public networks
+    - http over SSL
+    - browsers display a "lock" icon
 
 ## Privacy
 - Privacy Policy
@@ -19,3 +26,48 @@
     - generally considered legally binding
     - written in dense legal data
     - users may or may not pay attention
+- Data Collection: Form/User Entry
+    - social networks
+        - share information with others
+        - connect with friends
+        - attract potential employers
+    - online shopping
+        - credit card for payment
+        - home address for shipping
+    - online finances
+        - banking investments
+        - tax
+    - Mobile OS-provided
+        - contacts
+        - photos
+        - location
+- Data Collection: Behavior Logging
+    - any action a user takes on a webpage can be logged
+    - HTML event listeners
+    - time between actions
+- Data Applications
+    - ad-tracking
+    - search
+    - recommendation
+    - drive a metric
+- Lots of Sensitive Information
+    - personally identifiable information (PII)
+        - name, address, phone, email
+        - demographics: age, gender, race
+        - past contributions, purchases, rentals, friends, etc.
+    - financial information
+        - credit cards
+        - bank accounts
+    - legally sensitive
+        - health information (HIPPA)
+        - student information (FERPA)
+        - information from children (COPPA)
+- Developer - Legal Responsibility
+    - privacy has legal implications
+    - developer is responsible for breaches of policy
+- GDPR: General Data Protection Regulation
+    - consumers have the right to be "forgotten"
+- CCPA: California Consumer Privacy Act 
+    - opt-out vs consent
+    - "do not sell my personal data"
+- Apple: iOS App Privacy 
