@@ -19,7 +19,7 @@
 
 ## Netflix
 - pages
-    - homepage
+    - home page
     - tv-shows pop-up
 - best practices
     - box annotation method
@@ -32,3 +32,29 @@
     - profile page
 - key learnings
     - Google is your best friend
+
+## Nike
+- web technologies:
+    - tailwind css
+    - next.js
+    - vercel
+- pages
+    - home page
+    - product page
+    - cart page
+
+## Reddit
+- pages
+    - home page
+    - post page
+- functionalities
+    - clickable buttons
+    - toggable nav
+    - upvote/downvote buttons change color
+
+## Smolarski
+- functionalities
+    - pop-ups
+- redesigned the website 
+    - original was too hard to navigate
+- can also be read in dark mode
