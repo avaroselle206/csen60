@@ -58,3 +58,12 @@
 - redesigned the website 
     - original was too hard to navigate
 - can also be read in dark mode
+
+## Pinterest
+- pages
+    - "all pins"
+    - profile page
+    - pin details: allows a pin to be saved
+- key learnings:
+    - don't delete your branch after you merge, 
+    so you can see/access your new changes
